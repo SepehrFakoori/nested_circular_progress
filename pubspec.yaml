@@ -1,7 +1,9 @@
 name: nested_circular_progress
 description: "A Flutter package to create beautiful, animated, and interactive concentric circular progress indicators."
 version: 0.0.1
-homepage:
+homepage: https://github.com/SepehrFakoori/nested_circular_progress
+repository: https://github.com/SepehrFakoori/nested_circular_progress
+author: Sepehr Fakoori <sepehrdev.contact@gmail.com>
 
 environment:
   sdk: ^3.6.0
